@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @wmehilos
-- 👀 I’m interested in macOS and iOS Management, web APIs, making lightweight websites, and automation of all flavors.
-- 🌱 I’m currently learning Kubernetes, Ansible, and some Golang. 
+# 👋 Hi
+
+I tinker and mess about until I get bored, hence why most of my repos are not public.
+
+I do Mac/iOS stuff and bikeshed everything else. 
+
 
 <!---
 wmehilos/wmehilos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
